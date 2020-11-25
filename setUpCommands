@@ -25,3 +25,7 @@ $ firebase init
 
 run devserver
 $ firebase serve --host 0.0.0.0 --port 8080
+
+
+NOW:
+npm install firebase --save
