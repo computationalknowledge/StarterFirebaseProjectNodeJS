@@ -1,0 +1,27 @@
+In your NODE.js PowerShell Terminal:
+
+npm update nvm
+nvm install 8.1.2
+alias new nvm version
+$ nvm alias default 8.1.2
+npm update npm
+npm i -g npm
+install Firebase CLI
+
+$ npm install -g firebase-tools
+
+create a subdirectory
+
+$ mkdir my-project-name
+cd into new subdirectory
+
+Create project in Firebase console
+
+credential Firebase
+$ firebase login -no-localhost
+
+initialize Firebase
+$ firebase init
+
+run devserver
+$ firebase serve --host 0.0.0.0 --port 8080
